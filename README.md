@@ -7,3 +7,4 @@ The objective of this case study is to understand what's driving the total spend
 #### Output:
 1. The python file contained all the codes for prediction.
 2. I have made an implementation tool through VBA , to predict new customers spend based on the model output.
+3. Report made over excel for the whole analysis
